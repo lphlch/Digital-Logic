@@ -1,12 +1,14 @@
 # Digital Logic 数字逻辑
 
-This is the code warehouse of Tongji University's **Digital Logic** course, which mainly contains the usual experiment content. Project not included.  
+This is the code repository of Tongji University's **Digital Logic** course, which mainly contains the usual experiment content.  
+Class project is here [*79 key visual electronic piano with automatic playing function*](https://github.com/lphlch/Electronic-Piano.git).  
 
-This warehouse is for reference only. **On no account should you copy the code**. I do not have any responsibility for any consequences caused by plagiarism.
+This repository is for reference only. **On no account should you copy the code**. I do not have any responsibility for any consequences caused by plagiarism.
 
 This repository uses the GNU General Public License V3.0 protocol.
 
-这是同济大学 **数字逻辑** 课程代码仓，主要包含平时实验内容.
+这是同济大学 **数字逻辑** 课程代码仓，主要包含平时实验内容。  
+大项目部分请移步[【带有自动演奏功能的79键可视化电子琴】](https://github.com/lphlch/Electronic-Piano.git)
 
 本仓库仅供参考学习之用，**在任何情况下都不应该抄袭或部分抄袭本仓库代码**，本人对抄袭所造成的任何后果不负任何责任。  
 
